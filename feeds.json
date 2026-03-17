@@ -1,0 +1,26 @@
+{
+  "_info": "Lista de fontes RSS — edite diretamente no GitHub",
+  "_instrucoes": "Adicione ou remova objetos. Campos: url, source, category",
+  "feeds": [
+    {
+      "url": "https://feeds.bbci.co.uk/portuguese/rss.xml",
+      "source": "BBC Brasil",
+      "category": "Mundo"
+    },
+    {
+      "url": "https://g1.globo.com/rss/g1/",
+      "source": "G1",
+      "category": "Brasil"
+    },
+    {
+      "url": "https://canaltech.com.br/rss/",
+      "source": "Canaltech",
+      "category": "Tecnologia"
+    },
+    {
+      "url": "https://jornal.usp.br/feed/",
+      "source": "Jornal USP",
+      "category": "Ciência"
+    }
+  ]
+}
