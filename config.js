@@ -8,7 +8,7 @@ const CONFIG = {
   // ── YouTube ──────────────────────────────────────────────────
   // Cole aqui o ID da playlist do YouTube
   // Ex: se a URL for youtube.com/playlist?list=PLxxx, o ID é PLxxx
-  youtubePlaylistId: "PLxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  youtubePlaylistId: "PLjpxZx8rM_9C08WxhvMd3Capyx6ikMrkS",
 
   // Parâmetros extras do player YouTube (não alterar sem necessidade)
   // autoplay=1, loop=1, controls=0 = sem controles, rel=0 = sem vídeos relacionados
